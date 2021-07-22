@@ -20,10 +20,7 @@
 
 title: Database
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  DataBase é um projeto sem fins lucrativos, voltado para o compartilhamento de conhecimentos 
-sobre estatística e análise de dados, de forma simples e didática. Conhecimento é a base para 
-a mudança!
+description: DataBase é um projeto sem fins lucrativos, voltado para o compartilhamento de conhecimentos sobre estatística e análise de dados, de forma simples e didática. Conhecimento é a base para a mudança!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
