@@ -5,4 +5,4 @@ date:   2021-07-21 23:37:00 -0300
 categories: estatBasica
 ---
 
-# Porque Aprender Sobre Estatística?
+# Porque eu devo aprender sobre Estatística?
